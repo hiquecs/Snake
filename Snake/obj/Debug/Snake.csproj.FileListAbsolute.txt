@@ -1,0 +1,20 @@
+C:\Users\gatob\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\gatob\source\repos\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\gatob\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\gatob\source\repos\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\gatob\source\repos\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\gatob\source\repos\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\gatob\source\repos\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\gatob\source\repos\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\gatob\source\repos\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\gatob\source\repos\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Joao Henrique\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Joao Henrique\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Joao Henrique\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Joao Henrique\Desktop\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Joao Henrique\Desktop\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Joao Henrique\Desktop\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Joao Henrique\Desktop\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Joao Henrique\Desktop\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Joao Henrique\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Joao Henrique\Desktop\Snake\Snake\obj\Debug\Snake.pdb
